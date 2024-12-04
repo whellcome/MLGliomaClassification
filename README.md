@@ -15,7 +15,7 @@ The dataset used is sourced from the [Glioma Grading Clinical and Mutation Featu
 - **Documentation**: Detailed analysis and methodologies documented to ensure reproducibility.
 
 ## Repository Structure
-- `/notebooks`: Contains Jupyter Notebooks detailing data cleaning, model development, and results.
+- `/notebook`: Contains Jupyter Notebooks detailing data cleaning, model development, and results.
 <!-- - `/reports`: Insights and findings documented for presentation. -->
 - `/data`: Original and preprocessed datasets.
 
@@ -34,5 +34,5 @@ As part of the team, I focused on:
 - Testing and optimizing models like Decision Trees and Random Forests.
 - Developing an ensemble approach combining Logistic Regression, Random Forest, and Support Vector Machines for improved performance.
 
-*For further information or collaboration opportunities, feel free to contact me or support the repository using the Buy Me a Coffee link!*
+*For further information or collaboration opportunities, feel free to contact me or support the repository using the [Buy Me a Coffee](https://www.buymeacoffee.com/whellcome) link!*
 
